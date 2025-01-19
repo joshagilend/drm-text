@@ -1,0 +1,8 @@
+<Error>
+  <Code>AccessDenied</Code>
+  <Message>Access Denied</Message>
+  <RequestId>C5259E1658595A69</RequestId>
+  <HostId>
+     B1HYQsr0Xv4M1avKlJ3G8t0rkVfCvbOoJadxm5z1BwapblBeERm3c6Ni+jZWxB8FlXEaF6bUAik=
+  </HostId>
+</Error>
